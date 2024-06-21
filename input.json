@@ -1,0 +1,12 @@
+{
+    "apps": [
+        "com.whatsapp",
+        "com.google.android.youtube"
+    ],
+    "devices": [
+      "10.20.1.18:5555",
+      "10.20.16.149:5555"
+    ]
+  }
+
+

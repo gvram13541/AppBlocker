@@ -1,0 +1,10 @@
+app/
+├── main.py
+├── app_blocker.py
+├── styles.css
+├── utils.py
+└── components/
+    ├── device_manager.py
+    ├── app_selector.py
+    ├── blocking_scheduler.py
+    └── file_uploader.py
